@@ -9,7 +9,7 @@ Check the [Minigenn Hugo theme](https://github.com/gsrodrigues/minigenn) for det
 
 ## License
 
-Minigenn is licensed under the MIT License. Check the [LICENSE](hhttps://github.com/gsrodrigues/minigenn/blob/master/LICENSE) file for details.
+Minigenn is licensed under the MIT License. Check the [LICENSE](https://github.com/gsrodrigues/minigenn/blob/master/LICENSE) file for details.
 
 The following resources are included/used in the theme:
 
